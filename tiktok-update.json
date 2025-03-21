@@ -1,6 +1,6 @@
 {
-  "version": "v36.5.4 (patches: 5.14.0)",
-  "versionCode": 19,
-  "zipUrl": "https://github.com/Tiebe/RevancedBuilds/releases/download/19/tiktok-revanced-magisk-v36.5.4-all.zip",
+  "version": "v36.5.4 (patches: 5.15.0)",
+  "versionCode": 21,
+  "zipUrl": "https://github.com/Tiebe/RevancedBuilds/releases/download/21/tiktok-revanced-magisk-v36.5.4-all.zip",
   "changelog": "https://raw.githubusercontent.com/Tiebe/RevancedBuilds/update/build.md"
 }
