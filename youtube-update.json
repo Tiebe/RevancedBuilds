@@ -1,6 +1,6 @@
 {
-  "version": "v20.05.46 (patches: 5.13.1)",
-  "versionCode": 64,
-  "zipUrl": "https://github.com/Tiebe/RevancedBuilds/releases/download/64/youtube-revanced-extended-magisk-v20.05.46-all.zip",
+  "version": "v20.05.46 (patches: 5.14.1)",
+  "versionCode": 66,
+  "zipUrl": "https://github.com/Tiebe/RevancedBuilds/releases/download/66/youtube-revanced-extended-magisk-v20.05.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/Tiebe/RevancedBuilds/update/build.md"
 }
